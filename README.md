@@ -23,5 +23,5 @@ git pull origin main --allow-unrelated-histories
 #7️⃣ Push your local repo to GitHub (will ask for username + PAT)
 git push -u origin main
 
-# #ptional: cache credentials so you don’t enter PAT every time
+# optional: cache credentials so you don’t enter PAT every time
 git config --global credential.helper store
